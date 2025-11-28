@@ -4,7 +4,7 @@ This project is an interactive Tableau dashboard analyzing premiums, assets, and
 It was developed to strengthen my data analysis and dashboard design skills, focusing on **financial metrics**, **trend analysis**, and **professional visualization formatting**.
 
 📊 **Live Dashboard:**
-*(Add link to your Tableau Public dashboard here)*
+*https://public.tableau.com/shared/8TQM4JC4J?:display_count=n&:origin=viz_share_link*
 
 ---
 
