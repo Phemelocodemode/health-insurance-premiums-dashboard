@@ -27,7 +27,7 @@ The goal was to convert raw financial data into a clean, business-ready dashboar
 
 * **Tableau Public** — dashboard creation & visualization
 * **Excel** — minor data review
-* **Canva / PowerPoint (optional)** — for formatting ideas
+* **PowerPoint** — for formatting ideas
 * **GitHub** — portfolio storage
 
 ---
